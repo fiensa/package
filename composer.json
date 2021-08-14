@@ -1,0 +1,27 @@
+{
+    "name": "simplexi/greetr",
+    "description": "coba bikin package",
+    "type": "projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fiensa Afri Mahensa",
+            "email": "fiensa123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/fiensa/package.git"
+        }
+    ],
+    "require": {
+        "agungjk/rajaongkir": "dev-develop"
+    }
+}
