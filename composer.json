@@ -9,7 +9,6 @@
             "email": "fiensa123@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Simplexi\\Greetr\\": "src/"
