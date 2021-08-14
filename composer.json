@@ -20,8 +20,5 @@
             "type": "git",
             "url": "https://github.com/fiensa/package.git"
         }
-    ],
-    "require": {
-        "agungjk/rajaongkir": "dev-develop"
-    }
+    ]
 }
